@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/AmericanSH.git/static/css/main.a6d0ba0b.css",
+    "main.js": "/AmericanSH.git/static/js/main.fb18b54f.js",
+    "static/media/ash-logo-white.svg": "/AmericanSH.git/static/media/ash-logo-white.5d7d4662f83d18aa07ea20ce8aafbaec.svg",
+    "index.html": "/AmericanSH.git/index.html",
+    "main.a6d0ba0b.css.map": "/AmericanSH.git/static/css/main.a6d0ba0b.css.map",
+    "main.fb18b54f.js.map": "/AmericanSH.git/static/js/main.fb18b54f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6d0ba0b.css",
+    "static/js/main.fb18b54f.js"
+  ]
+}
