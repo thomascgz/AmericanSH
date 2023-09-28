@@ -1,0 +1,15 @@
+Affichage d'un pourcentage sur un écran avec petit fond sympa et une phrase du style "Vers le succès *personne heureuse avec le point levé*
+
+- MAJ tous les jours à 03H00
+- mettre dans un coin la date de MAJ + l'heure au cas où il y aurait un décalage de synchronisation
+- récupération chiffre d'affaire via API l'addition
+- affichage d'un pourcentage sur 3 lignes (ne jamais afficher de chiffres en €, seulement %) :
+
+1) PALIER junior -> barre de progression (CA ACTUEL/165000)
+2) PALIER senior -> barre de progression (CA ACTUEL/170000)
+3) PALIER big boss -> barre de progression (CA ACTUEL/185000)
+
+*déclencher 2ème palier après atteinte de 100% du 1er et pareil pour le 3ème palier
+*voir pour faire une progression de palier sympa + une animation permanante de "felicitations" quand arrivé à 100%
+
+*voir si possible un petit raspberry dans boitier collé à un écran de pc 19-21", pour pouvoir connecter en RJ45 un peu partout (possible d'alimenter le raspberry avec l'alim de l'écran ?)
