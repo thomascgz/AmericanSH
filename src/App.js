@@ -16,11 +16,12 @@ export default function App() {
   return (
     <ConfContext.Provider value={confValue}>
       <div id='app'>
-        <BrowserRouter>
+        {/* <BrowserRouter>
           <Routes>
-            <Route exact path='/' element={<Home/>} />
-          </Routes>
-        </BrowserRouter>
+            <Route exact path='/' element={<Home/>} /> */}
+            <Home/>
+          {/* </Routes>
+        </BrowserRouter> */}
       </div>
     </ConfContext.Provider>
   );
